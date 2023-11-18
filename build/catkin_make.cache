@@ -1,0 +1,2 @@
+my_robot_description
+-DCATKIN_DEVEL_PREFIX=/home/joshua/robot_practice_ws/devel -DCMAKE_INSTALL_PREFIX=/home/joshua/robot_practice_ws/install -G Unix Makefiles
